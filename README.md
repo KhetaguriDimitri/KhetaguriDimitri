@@ -1,20 +1,4 @@
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%"> 
-
-[Imgur](https://imgur.com/b6N0lIV)
-
-<img src="https://https://i.imgur.com/b6N0lIV.gif" alt="Coder GIF" width="100%"> 
-
-<div style="width:100%;height:0;padding-bottom:32%;position:relative;"><iframe src="https://giphy.com/embed/r5PH7oEtPW7hCnZiWN" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cryptocurrency-btc-crypto-era-r5PH7oEtPW7hCnZiWN">via GIPHY</a></p>
-
-https://imgur.com/b6N0lIV
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="b6N0lIV"><a href="https://imgur.com/b6N0lIV">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-[img]https://i.imgur.com/b6N0lIV.gif[/img]
-
-[Imgur](https://imgur.com/b6N0lIV)
-
-
+<img src="https://media.giphy.com/media/r5PH7oEtPW7hCnZiWN/giphy.gif" width="100%"> 
 
 # Hi there 👋
 
