@@ -5,6 +5,16 @@
 <img src="https://https://i.imgur.com/b6N0lIV.gif" alt="Coder GIF" width="100%"> 
 
 
+https://imgur.com/b6N0lIV
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="b6N0lIV"><a href="https://imgur.com/b6N0lIV">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+[img]https://i.imgur.com/b6N0lIV.gif[/img]
+
+[Imgur](https://imgur.com/b6N0lIV)
+
+
+
 # Hi there 👋
 
 #### NOte
