@@ -4,6 +4,7 @@
 
 <img src="https://https://i.imgur.com/b6N0lIV.gif" alt="Coder GIF" width="100%"> 
 
+<div style="width:100%;height:0;padding-bottom:32%;position:relative;"><iframe src="https://giphy.com/embed/r5PH7oEtPW7hCnZiWN" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cryptocurrency-btc-crypto-era-r5PH7oEtPW7hCnZiWN">via GIPHY</a></p>
 
 https://imgur.com/b6N0lIV
 
