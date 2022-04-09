@@ -1,4 +1,4 @@
-<p align="center"><img src="https://hackers.ge/images/Hackers.gif" width="550" height="176"></center> 
+<p align="center"><img src="https://imgur.com/gallery/IJIio9K" width="550" height="176"></center> 
 
 # <p align="center"> ▲ Get Free Crypto •••➤ https://www.gate.io/ref/3301721 ✔ </center>
 
