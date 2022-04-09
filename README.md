@@ -1,4 +1,4 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/IJIio9K"><a href="//imgur.com/IJIio9K">Hackers.Ge</a></blockquote><script async src="https://i.imgur.com/baez4Wy.mp4" charset="utf-8"></script>
+<img src="https://i.imgur.com/baez4Wy.mp4" width="40" height="40" />
 
 # <p align="center"> ▲ Get Free Crypto •••➤ https://www.gate.io/ref/3301721 ✔ </center>
 
