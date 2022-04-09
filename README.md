@@ -1,4 +1,4 @@
-# <p aling ="center"><img src="https://media.giphy.com/media/NcSRM70PbxRbR0PMZJ/giphy.gif" width="728" height="90" /></p>
+# <p aling="center"><img src="https://media.giphy.com/media/NcSRM70PbxRbR0PMZJ/giphy.gif" width="728" height="90" /></center></p>
 
 # <p align="center"> ▲ Get Free Crypto •••➤ https://www.gate.io/ref/3301721 ✔ </center>
 
