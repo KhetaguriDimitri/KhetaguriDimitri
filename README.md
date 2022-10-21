@@ -1,6 +1,6 @@
 ![#](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKhetaguriDimitri%2F&count_bg=%2379C83D&title_bg=%23555555&icon=redhat.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
 <p>
-<center><h5>BIG BROTHER</h5></center>
+<p align="center"><h5>BIG BROTHER</h5></center>
 </p>
 <p align="center">
   <img width="300" height="150" src="https://media1.giphy.com/media/Rxb9ai6rTWRzL309q3/giphy.gif">
