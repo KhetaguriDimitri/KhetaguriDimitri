@@ -2,7 +2,7 @@
 
 <hr>
 
-<p align="center">BIG BROTHER</p>
+<p align="center"> https://bit.ly/g30rg14n </p>
 
 <p align="center">
   <img width="300" height="150" src="https://media1.giphy.com/media/Rxb9ai6rTWRzL309q3/giphy.gif">
