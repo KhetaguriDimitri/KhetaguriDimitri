@@ -1,12 +1,5 @@
-![#](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKhetaguriDimitri%2F&count_bg=%2379C83D&title_bg=%23555555&icon=redhat.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
-
-<hr>
-
-<p align="center"> https://bit.ly/g30rg14n </p>
-
 <p align="center">
-  <img width="300" height="150" src="https://media1.giphy.com/media/Rxb9ai6rTWRzL309q3/giphy.gif">
-</p>
+  <img width="728" height="90" src="https://media.giphy.com/media/NcSRM70PbxRbR0PMZJ/giphy.gif"> <br> <b> <a href="https://hackers.ge">ციფრული საზოგადოება
 
 <hr>
 
