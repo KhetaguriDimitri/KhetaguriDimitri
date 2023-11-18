@@ -11,9 +11,8 @@
 <a href="https://play.google.com/store/apps/details?id=ge.hackers.hackersge" target="_blank" rel="noopener noreferrer">
   <img style="max-width: 100%;" src="https://i.giphy.com/media/bhyfesK1i5Bm4pOfXj/giphy.webp" alt="Hackers.ge">
 </a>
-     </p>
    <p align="center">
 <a href="https://accounts.binance.com/register?ref=54548622" target="_blank" rel="noopener noreferrer">
-  <img style="max-width: 100%;" src="https://media.giphy.com/media/r5PH7oEtPW7hCnZiWN/giphy.gif" alt="CryptoERA">
+  <img style="max-width: 100%;" src="https://i.giphy.com/media/w2cs1oGwp3eN9xeuP6/giphy.webp" alt="Binance">
 </a>
      </p>
