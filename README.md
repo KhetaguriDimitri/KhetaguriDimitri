@@ -8,8 +8,8 @@
 </a>
 </div>
    <p align="center">
-<a href="https://hackers.ge" target="_blank" rel="noopener noreferrer">
-  <img style="max-width: 100%;" src="https://media.giphy.com/media/NcSRM70PbxRbR0PMZJ/giphy.gif" alt="Hackers.ge">
+<a href="https://play.google.com/store/apps/details?id=ge.hackers.hackersge" target="_blank" rel="noopener noreferrer">
+  <img style="max-width: 100%;" src="https://i.giphy.com/media/bhyfesK1i5Bm4pOfXj/giphy.webp" alt="Hackers.ge">
 </a>
      </p>
    <p align="center">
